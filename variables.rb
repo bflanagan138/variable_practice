@@ -8,3 +8,7 @@ any_pets = 2
 
 savings_balance = 15000.00
 checking_balance = 13246.20
+
+smoker = false
+drinker = true
+us_citizen = yes
