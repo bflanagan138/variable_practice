@@ -12,3 +12,7 @@ checking_balance = 13246.20
 smoker = false
 drinker = true
 us_citizen = yes
+
+name = "Tads Oberdorfer"
+favorite_food = "Mac and Cheese"
+favorite_drink = "Dr Pepper"
