@@ -16,3 +16,7 @@ us_citizen = true
 name = "Tads Oberdorfer"
 favorite_food = "Mac N Cheese"
 favorite_drink = "Dr Pepper"
+
+puts name
+puts smoker
+puts favorite_food
